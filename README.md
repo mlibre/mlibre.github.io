@@ -11,6 +11,7 @@ Here is my network :)
 * [LBRY](https://lbry.tv/@mlibre:e)
 * [Odysee] (https://odysee.com/@mlibre:e)
 * [Twitter](https://twitter.com/mlibreT)
+* [Telegram](https://t.me/mlibre)
 * [3box](https://www.3box.io/0xc9b64496986e7b6d4a68fdf69ef132a35e91838e)
 * [StackoverFlow](https://stackoverflow.com/users/3928320/mlibre?tab=profile)
 * [Blog](https://mlibrego.wordpress.com/)
@@ -36,6 +37,7 @@ Here is my network :)
 * [D.tube](https://d.tube/#!/c/mlibregop)
 * [GitBook](https://mlibre.gitbook.io)
 * [Linkly](https://linkly.co/mlibre)
+* [Cointree](https://cointr.ee/mlibre)
 
 ## Email
 * mlibrego@protonmail.com
