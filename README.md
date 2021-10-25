@@ -31,7 +31,6 @@ Here is my network :)
 * m.gh@linuxmail.org
 * dontcollectdata@gmail.com
 * mlibrego@protonmail.com
-* m.gh@tutanota.com
 
 Donate or .... :heartpulse:
 =======
