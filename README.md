@@ -23,7 +23,6 @@ Here is my network :)
 * [Instagram](https://www.instagram.com/mlibrege)
 * [Coursera](https://www.coursera.org/user/047d27bf0622aed97c516cbd49324729)
 * [Tripadvisor](https://www.tripadvisor.com/Profile/mlibre)
-* [Like.co](https://like.co/mlibrego)
 * [Linkly](https://linkly.co/mlibre)
 * [Cointree](https://cointr.ee/mlibre)
 
