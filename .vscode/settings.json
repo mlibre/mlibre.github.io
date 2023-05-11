@@ -8,7 +8,7 @@
     "editor.fontSize": 14,
     "editor.fontFamily": "'DejaVu Sans Mono'",
     "editor.mouseWheelZoom": true,
-    "editor.tabCompletion": true,
+    "editor.tabCompletion": "onlySnippets",
     "editor.tabSize": 3,
     "editor.insertSpaces": false,
     "window.zoomLevel": 2,
