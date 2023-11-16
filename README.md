@@ -13,7 +13,6 @@ Experienced Software Engineer with 10+ years of expertise in Linux, Node.js, and
 * [Twitter](https://twitter.com/mlibreT)
 * [Telegram](https://t.me/mlibre)
 * [StackoverFlow](https://stackoverflow.com/users/3928320/mlibre?tab=profile)
-* [Instagram](https://www.instagram.com/mlibrege)
 * [Coursera](https://www.coursera.org/user/047d27bf0622aed97c516cbd49324729)
 
 ## Email
