@@ -14,7 +14,7 @@
     "window.zoomLevel": 2,
     "workbench.sideBar.location": "left",
     "workbench.statusBar.visible": true,
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "files.exclude": {
@@ -39,7 +39,7 @@
         "backups": true,
         ".vscode": true,
         "db_dump": true,
-        "database": true,        
+        "database": true,
     },
     "emmet.syntaxProfiles": {
         "ejs": "html"
