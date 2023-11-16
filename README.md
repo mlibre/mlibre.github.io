@@ -2,7 +2,7 @@
 
 Hey, it's Masoud. Just a random guy from the Solar system.
 
-Experienced Software Engineer with 10+ years of expertise in Linux, Node.js, and web development. Enthusiastic about DevOps practices and passionate about blockchain technology. Advocate for simple solutions to problems. Skilled at delivering innovative solutions and optimizing system performance and stability
+Experienced Software Engineer with 10+ years of expertise on Linux, Node.js, and web development. Enthusiastic about DevOps practices and passionate about blockchain technology. Advocate for simple solutions to problems. Skilled at delivering innovative solutions and optimizing system performance and stability
 
 ## Accounts
 
